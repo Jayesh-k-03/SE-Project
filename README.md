@@ -6,3 +6,4 @@ This is a project to setup your very own VTuber AI similar to "Neuro-Sama".
 Built With
 Python[requirements.txt](https://github.com/Jayesh-k-03/SE-Project/files/11984853/requirements.txt)
 
+[project assistant.New.pptx](https://github.com/Jayesh-k-03/SE-Project/files/11984910/project.assistant.New.pptx)
