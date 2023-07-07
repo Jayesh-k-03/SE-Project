@@ -4,4 +4,5 @@ A Twitch Chat Bot that reads twitch chat and creates a text to speech response u
 This is a project to setup your very own VTuber AI similar to "Neuro-Sama".
 
 Built With
-Python
+Python[requirements.txt](https://github.com/Jayesh-k-03/SE-Project/files/11984853/requirements.txt)
+
